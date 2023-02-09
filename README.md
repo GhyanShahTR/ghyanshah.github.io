@@ -1,2 +1,2 @@
 # ghyanshah.github.io
-are you a website? because you're everything i've been searching for :/
+welcome to my personal website, where I put my heart and soul (and a little bit of JS) on every page.
